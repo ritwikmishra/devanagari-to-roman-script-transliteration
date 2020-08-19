@@ -39,7 +39,7 @@ for x in content:
 						str1 = str1 + consonants[c]+'a'
 				else:
 					str1 = str1 + consonants[c]
-			elif y[i] in ['\n','\t',' ','!',',','।','-',':','\\','_'] or c.isalnum():
+			elif y[i] in ['\n','\t',' ','!',',','।','-',':','\\','_','?'] or c.isalnum():
 				str1 = str1 + c.replace('।','.')
 		str1 = str1 + " "
 	str1 = str1 + "\n"
