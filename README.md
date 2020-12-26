@@ -38,6 +38,17 @@ apako bajaanaa- wajaanaa bhi ataa hai, sirpha poज़ lekara khaड़e haim।
 r̥tvika ne ye ṭūla banāyā hai. ye python language meṃ likhā gayā hai. rāja! agara ye tujhase pyāra karatī hai to ye palaṭa ke dekhegī, palaṭa, palaṭa. laṃdana pahūṃca gae, eka mahīnā kaise guzarā, patā hī nahīṃ calā. maiṃ cāhatī hūṃ ki merī beṭī mujhe jāne. mammā! maiṃ ye āṭha ciṭhṭhiyāṃ āpa ke pāsa choṛa kara jā rahī hūṃ. are rājeśa! yahāṃ āo yāra, ye jo tumhāre sasura jī haiṃ na, bae dilacaspa iṃsāna haiṃ. āpako bajānā- vajānā bhī ātā hai, sirpha poa lekara khae haiṃ.
 ```
 
+### Output of [indic-trans](https://github.com/libindic/indic-trans)
+```
+ruthvik ne ye tul banaaya he. ye python language main likhaa gaya he.
+raaj! agar ye tujhse pyaar karti he to ye palat ke dekhegi, palat, palat.
+landan pahoonch gaye, ek maheenaa kaise guzara, pataa hi nahin chalaa.
+main chaahati hum ki meri beti mujhe jane.
+mamma! main ye aath chiththiyaan aap ke paas chhod kar ja rahi hum.
+are rajesh! yahaan aao yaar, ye jo tumhaare sasur ji hai na, bade dilachasp insaan hai.
+aapako bajaanaa- vajana bhi aata he, sirf pos lekar khadey hai.
+```
+
 ### Output of my method
 ```
 ritvik ne ye tool banaya hai. ye python language men likha gaya hai. 
