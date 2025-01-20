@@ -1,12 +1,11 @@
 # devanagari-to-roman-script-transliteration
-Python scipt to convert &lt;text written in devnagri script> TO &lt;text in roman/english script>
+Python script to convert &lt;text written in devnagri script> TO &lt;text in roman/english script>
 
 ## USE
 Open terminal
 ```
 git clone https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration.git
 cd devanagari-to-roman-script-transliteration
-python3 createDict.py
 python3 runTransliteration.py sample
 ```
 
@@ -51,13 +50,13 @@ aapako bajaanaa- vajana bhi aata he, sirf pos lekar khadey hai.
 
 ### Output of my method
 ```
-ritvik ne ye tool banaya hai. ye python language men likha gaya hai. 
-raj! agar ye tujhse pyar karti hai to ye palat ke dekhegi, palat, palat. 
-lndan pahoonch ge, ek mahina kaise guzra, pata hi nahin chala. 
-main chahti hoon ki meri beti mujhe jane. 
-mamma! main ye aath chiththiyan aap ke pas chhor kar ja rahi hoon. 
-are rajesh! yahan aao yar, ye jo tumhare sasur ji hain n, bare dilachasp insan hain. 
-aapko bajana- vajana bhi aata hai, sirph poz lekar khare hain.
+ritvik ne ye tool banaaya hai. ye python language men likha gaya hai.
+raaj! agar ye tujhse pyar karti hai to ye palat ke dekhegi, palat, palat.
+landan pahoonch ge, ek mahina kaise guzra, pata hi nahin chala.
+main chaahti hoon ki meri beti mujhe jaane.
+mamma! main ye aath chiththiyan aap ke paas chhor kar ja rahi hoon.
+are raajesh! yahan aao yaar, ye jo tumhare sasur ji hain n, bare dilachasp insaan hain.
+aapko bajaana- vajaana bhi aata hai, sirph poz lekar khare hain.
 ```
 
 ## Cite

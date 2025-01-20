@@ -1,6 +1,14 @@
 import csv
 from collections import OrderedDict
 
+# unicode conversion
+# 'फ़'.encode('utf-8') --> b'\xe0\xa4\xab\xe0\xa4\xbc'
+# (b'\xe0\xa4\xab\xe0\xa4\xbc').decode() --> 'फ़'
+
+# ''.join(f'\\u{ord(char):04X}' for char in 'फ़') --> \u092B\u093C
+# print('\u092B\u093C') --> फ़
+# '\\u092B\\u093C'.encode().decode('unicode_escape') --> फ़
+
 vowels = OrderedDict([
 ('ँ','n'),
 ('ं','n'),
@@ -59,8 +67,8 @@ consonants = OrderedDict([
 
 ('प','p'), 
 ('फ','ph'), 
-('फ़','f'),
-('फ़','f'), #these two फ़ are very different, see them in unicode by 'फ़'.encode('utf-8'). You'll see.
+('फ़','f')
+('फ़','f'), #these two फ़ are very different, see them in unicode by 'फ़'.encode('utf-8'). You'll see.
 ('ब','b'), 
 ('भ','bh'), 
 ('म','m'), 
